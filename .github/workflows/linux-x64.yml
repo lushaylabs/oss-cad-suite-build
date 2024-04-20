@@ -1,7 +1,9 @@
 name: linux-x64
 
 on:
-  push: true
+  push:
+    branches:
+      - '**'
 
 jobs:
   linux-x64-abc:
