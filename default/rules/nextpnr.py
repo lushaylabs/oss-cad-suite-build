@@ -5,7 +5,7 @@ SourceLocation(
 	name = 'nextpnr',
 	vcs = 'git',
 	location = 'https://github.com/lushaylabs/nextpnr',
-	revision = 'origin/master',
+	revision = 'origin/boost_seperator',
 	license_file = 'COPYING',
 )
 
